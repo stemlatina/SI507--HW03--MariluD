@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+#<<<<<<< HEAD
 import random
 
 class Magic8:
@@ -25,7 +25,7 @@ class Magic8:
 
 q = Magic8(input("What is your question? :   "))
 print(q.pick_random_ans())
-=======
+#=======
 # SI 507 Fall 2019
 # Homework 3 - Magic 8-Ball Code & Git Tutorial
 # Worked on by: Marilu D. and Alison S.
@@ -71,4 +71,4 @@ class Magic8:
 q = Magic8(input("What is your question? :   "))
 qq = q.question
 q.check_for_question(qq)
->>>>>>> check_question
+#>>>>>>> check_question
